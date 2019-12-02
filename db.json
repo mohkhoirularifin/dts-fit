@@ -1,0 +1,7 @@
+{
+  "calories": [
+    { "id": 1, "food": "Bihun Goreng", "calory": 455 },
+    { "id": 2, "food": "Mie Goreng", "calory": 360 },
+    { "id": 3, "food": "Nasi Goreng", "calory": 333 }
+  ]
+}
